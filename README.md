@@ -1,3 +1,9 @@
-# Data-Structures-using-C
-This repository contains the implementation of different data structures using C programming language.
-The codes are present in the Branch "code"
+
+# DS and Algo using C
+This repository consist of DS and Algo implemented using C.
+
+
+## Appendix
+1) [AVL Tree Implementation](https://github.com/vincent-raja-7/Data-Structures-using-C/tree/code/Avl%20Tree)
+
+
